@@ -5,13 +5,20 @@ html, body {
  
 
   }
-
+.center-skills {
+    text-align: center;
+}
 .about-me-container {
     background-color: black;
     padding-bottom: 20px;
     padding-right: 20px;
 }
+.skills-container {
+    background-color: black;
+    padding-bottom: 20px;
+    padding-right: 20px;
 
+}
 .work-container {
     background-color: black;
     padding-bottom: 20px;
@@ -69,7 +76,7 @@ html, body {
 
 
 .project-card {
-    background-color: pink;
+    background-color: white;
     height: 100px;
     
 }
