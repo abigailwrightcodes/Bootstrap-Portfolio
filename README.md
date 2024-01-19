@@ -1,10 +1,10 @@
 # Bootstrap-Portfolio
 
 
-Description
+## Description
 Update of Portfolio using Bootstrap. Including Navbar, Jumbotron and grids. Now includes a skill section with relvant skills updated
 
-Link to deployed site
+## Link to deployed site
 
 
-Screenshot of deployed site and vs code
+## Screenshot of deployed site and vs code
