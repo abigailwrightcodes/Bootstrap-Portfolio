@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+ 
+
+  }
+
+
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  .jumbotron-fluid {
+    position: relative;
+    padding: 0;
+  }
+
+  .jumbotron-image {
+    width: 100%;
+    height: auto;
+  }
+
+.profile-picture {
+    
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-top: 10px;
+ 
+}
+
+.center-image {
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: black;
+}
